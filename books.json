@@ -1812,10 +1812,14 @@
                 {
                     "label": "Smashwords",
                     "url": "https://www.smashwords.com/books/view/1434812"
+                    "drm": false,
+                    "free": false
                 },
                 {
                     "label": "Google",
                     "url": "https://play.google.com/store/books/details?id=WuDPEAAAQBAJ"
+                    "drm": false,
+                    "free": false
                 }
             ]
         },
@@ -1880,7 +1884,7 @@
             "other": {
                 "label": "Google",
                 "url": "https://play.google.com/store/books/details?id=4liJEAAAQBAJ",
-                "drm": true,
+                "adobe_drm": true,
                 "free": false
             }
         },
@@ -2033,7 +2037,7 @@
             "other": {
                 "label": "Google",
                 "url": "https://play.google.com/store/books/details?id=765nEAAAQBAJ",
-                "drm": true,
+                "adobe_drm": true,
                 "free": false
             }
         },
@@ -2121,7 +2125,8 @@
                 {
                     "label": "Google",
                     "url": "https://play.google.com/store/books/details/Devin_Elle_Kurtz_The_Bakery_Dragon?id=F9vtEAAAQBAJ",
-                    "drm": true
+                    "adobe_drm": true,
+                    "free": false
                 }
             ]
         },
@@ -2951,3 +2956,4 @@
     }
 
 ]
+
