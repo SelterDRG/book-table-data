@@ -2930,10 +2930,10 @@
         "cover": "test.jpg",
         "author": "Test",
         "title": "Reversing Scales",
-        "url": "https://youtu.be/dQw4w9WgXcQ?si=DII_cN4YaPNeyG75",
+        "url": "https://youtu.be/dQw4w9WgXcQ",
         "vendors": {
             "amazon": {
-                "url": "https://youtu.be/dQw4w9WgXcQ?si=DII_cN4YaPNeyG75",
+                "url": "https://youtu.be/dQw4w9WgXcQ",
                 "drm": false,
                 "free": true
             },
@@ -2943,7 +2943,7 @@
             "other": null,
             "sub": {
                 "label": "KU",
-                "url": "https://youtu.be/dQw4w9WgXcQ?si=DII_cN4YaPNeyG75",
+                "url": "https://youtu.be/dQw4w9WgXcQ",
                 "drm": false,
                 "sub_ki": true,
                 "free": false
