@@ -1,1 +1,30 @@
-
+[
+    {
+        "cover": "test.jpg",
+        "author": "Test",
+        "title": "Reversing Scales",
+        "url": "https://youtu.be/dQw4w9WgXcQ?si=DII_cN4YaPNeyG75",
+        "vendors": {
+            "amazon": {
+                "url": "https://youtu.be/dQw4w9WgXcQ?si=DII_cN4YaPNeyG75",
+                "drm": false,
+                "free": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://youtu.be/dQw4w9WgXcQ?si=DII_cN4YaPNeyG75",
+                "drm": false,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    }
+]
