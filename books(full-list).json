@@ -1,5 +1,2932 @@
 [
     {
+        "cover": "the-chronicles-of-amberdrake.jpg",
+        "author": "Loren K. Jones",
+        "title": "The Chronicles of Amberdrake",
+        "url": "https://www.goodreads.com/book/show/44769846-the-chronicles-of-amberdrake",
+        "vendors": {
+            "amazon": null,
+            "google": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null
+        },
+        "drmFree": false,
+        "free": null,
+        "missing": true,
+        "version": null,
+        "audiobook": null
+    },
+    {
+        "cover": "sphere-of-eternity.jpg",
+        "author": "L.J. Davies",
+        "title": "Sphere of Eternity",
+        "url": "https://www.goodreads.com/book/show/58080566-sphere-of-eternity",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B094ZQB4CF",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B094ZQB4CF",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "fallen-star.jpg",
+        "author": "L.J. Davies",
+        "title": "Fallen Star",
+        "url": "https://www.goodreads.com/book/show/58121945-fallen-star",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B094ZYMFFR",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B094ZYMFFR",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "tooth-and-claw.jpg",
+        "author": "Jo Walton",
+        "title": "Tooth and Claw",
+        "url": "https://www.goodreads.com/book/show/17675797-tooth-and-claw",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Tooth-Claw-Jo-Walton-ebook/dp/B00AN2KHX0",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/tooth-and-claw-16",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/tooth-and-claw-jo-walton/1100355583?ean=9781429954686",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "a-dragon's-chains.jpg",
+        "author": "Robert Vane",
+        "title": "A Dragon's Chains",
+        "url": "https://www.goodreads.com/book/show/58093141-a-dragon-s-chains",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B094TZC6SY",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B094TZC6SY",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "age-of-legend.jpg",
+        "author": "L.J. Davies",
+        "title": "Age of Legend",
+        "url": "https://www.goodreads.com/book/show/58269909-age-of-legend",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B094ZS43DD",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B094ZS43DD",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "scaleshifter.jpg",
+        "author": "Shelby Hailstone Law",
+        "title": "Scaleshifter",
+        "url": "https://www.goodreads.com/book/show/52993968-scaleshifter",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B07YZTB3KJ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B07YZTB3KJ",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "the-black-dragon.jpg",
+        "author": "Shelby Hailstone Law",
+        "title": "The Black Dragon",
+        "url": "https://www.goodreads.com/book/show/55023430-the-black-dragon",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B08DJ9Q76F",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B08DJ9Q76F",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragon's-ring.jpg",
+        "author": "Dave Freer",
+        "title": "Dragon's Ring",
+        "url": "https://www.goodreads.com/book/show/67284868-dragon-s-ring",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BPKFX5XC/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": {
+                "label": "Audiobook",
+                "url": "https://www.barnesandnoble.com/w/dragons-ring-dave-freer/1102501698",
+                "drm": false,
+                "free": false,
+                "non_spec": true
+            },
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "vainqueur-the-dragon.jpg",
+        "author": "Maxime J. Durand",
+        "title": "Vainqueur the Dragon",
+        "url": "https://www.goodreads.com/book/show/48915911-vainqueur-the-dragon",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B081VRFXBM",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "label": "Stub",
+                "url": "https://www.royalroad.com/fiction/26534/vainqueur-the-dragon",
+                "drm": true,
+                "free": false,
+                "non_spec": true
+            },
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B081VRFXBM",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragonfriend.jpg",
+        "author": "Marc Seccia",
+        "title": "Dragonfriend",
+        "url": "https://www.goodreads.com/book/show/26799796-dragonfriend",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B00TS3J5GU/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/dragonfriend-3",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/dragonfriend-marc-secchia/1121670265?ean=2940181316034",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragonlove.jpg",
+        "author": "Marc Seccia",
+        "title": "Dragonlove",
+        "url": "https://www.goodreads.com/book/show/25858836-dragonlove",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B010ZFL5SA/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "child-of-the-daystar.jpg",
+        "author": "Bryce O'Connor",
+        "title": "Child of the Daystar",
+        "url": "https://www.goodreads.com/book/show/28182262-child-of-the-daystar",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Child-Daystar-Wings-War-Book-ebook/dp/B019ABWGJC",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Child-Daystar-Wings-War-Book-ebook/dp/B019ABWGJC",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragon-and-thief.jpg",
+        "author": "Timothy Zahn",
+        "title": "Dragon and Thief",
+        "url": "https://www.goodreads.com/book/show/38335692-dragon-and-thief",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Dragon-Thief-Dragonback-Book-1-ebook/dp/B079JC54C8/",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Dragon-Thief-Dragonback-Book-1-ebook/dp/B079JC54C8/",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "mating-flight-a-non-romance-of-dragons.jpg",
+        "author": "Bard Bloom",
+        "title": "Mating Flight: A Non-Romance of Dragons",
+        "url": "https://www.goodreads.com/book/show/26066421-mating-flight",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0110BXREI/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/mating-flight-a-non-romance-of-dragons",
+                "drm": false,
+                "free": false
+            },
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "dragon-champion.jpg",
+        "author": "E.E. Knight",
+        "title": "Dragon Champion",
+        "url": "https://www.goodreads.com/book/show/35428756-dragon-champion",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/0451460472",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ca/en/ebook/dragon-champion-book-one-of-the-age-of-fire-1",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/dragon-champion-e-e-knight/1100361698",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragon-dreams.jpg",
+        "author": "C.B. Morgan",
+        "title": "Dragon Dreams",
+        "url": "https://www.goodreads.com/book/show/59821968-dragon-dreams",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B09LSMB9W1",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "lazy-scales.jpg",
+        "author": "DM Gilmore",
+        "title": "Lazy Scales",
+        "url": "https://www.goodreads.com/book/show/55252443-lazy-scales",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B08FH9G847/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B08FH9G847/ref=x_gr_bb_amazon",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragon-source.jpg",
+        "author": "Glenn Birmingham",
+        "title": "Dragon Source",
+        "url": "https://www.goodreads.com/book/show/48591890-dragon-source",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B07ZCLNN6B",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/dragon-source",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/dragon-source-glenn-birmingham/1134312937?ean=2940160817101",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": {
+                "label": "Smashwords",
+                "url": "https://www.smashwords.com/books/view/1330353",
+                "drm": false,
+                "free": false
+            },
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.kobo.com/us/en/ebook/dragon-source",
+                "drm": true,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "when-women-were-dragons.jpg",
+        "author": "Kelly Barnhill",
+        "title": "When Women Were Dragons",
+        "url": "https://www.goodreads.com/book/show/57033379-when-women-were-dragons",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/0385548222/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/when-women-were-dragons",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/when-women-were-dragons-kelly-barnhill/1139966299",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Google",
+                    "url": "https://play.google.com/store/books/details/Kelly_Barnhill_When_Women_Were_Dragons",
+                    "drm": true,
+                    "adobe_drm": true,
+                    "free": false
+                },
+                {
+                    "label": "Apple",
+                    "url": "hhttps://books.apple.com/us/book/when-women-were-dragons/id1579642429",
+                    "drm": true,
+                    "free": false
+                }
+            ],
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "spark-the-fire.jpg",
+        "author": "Melissa McShane",
+        "title": "Spark the Fire",
+        "url": "https://www.goodreads.com/book/show/58389420-spark-the-fire",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0977LSM84",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ch/en/ebook/spark-the-fire",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/spark-the-fire-melissa-mcshane/1139717360",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1280455",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/ch/book/spark-the-fire/id1573280476",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "A&R",
+                    "url": "https://www.angusrobertson.com.au/ebooks/spark-the-fire-melissa-mcshane/p/9781949663624",
+                    "drm": false,
+                    "free": false
+                }
+            ],
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "eyrie.jpg",
+        "author": "K. Vale Nagle",
+        "title": "Eyrie",
+        "url": "https://www.goodreads.com/book/show/44292600-eyrie",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B07NCPM2XP/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/eyrie-7",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/eyrie-k-vale-nagle/1130667377?ean=2940162948940",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "itch.io",
+                    "url": "https://kvalenagle.itch.io/eyrie",
+                    "drm": false,
+                    "free": true
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1041838",
+                    "drm": false,
+                    "free": true
+                }
+            ],
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.kobo.com/us/en/ebook/eyrie-7",
+                "drm": false,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "axtara-banking-and-finance.jpg",
+        "author": "Max Florschutz",
+        "title": "Axtara - Banking and Finance",
+        "url": "https://www.goodreads.com/book/show/56383097-axtara---banking-and-finance",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B08QZ3WXFK",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B08QZ3WXFK",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-wearle.jpg",
+        "author": "Chris d'Lacey",
+        "title": "The Wearle",
+        "url": "https://www.goodreads.com/book/show/27409234-the-wearle",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Wearle-Book-Erth-Dragons-ebook/dp/B010RFZUMA",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/the-wearle-the-erth-dragons-1",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-wearle-chris-dlacey/1123839942?ean=9780545900553",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "add_later"
+                }
+            ],
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": "Yes (B&N)"
+    },
+    {
+        "cover": "the-dragon's-paladin.jpg",
+        "author": "Justin A. Lee",
+        "title": "The Dragon's Paladin",
+        "url": "https://www.goodreads.com/book/show/40910145-scales-and-honor",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/0692154825/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/100255/scales-and-honor-dragons-paladin-book-1",
+                "drm": false,
+                "free": true
+            },
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/0692154825/ref=x_gr_bb_amazon",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "dragon-of-ash-&-stars.jpg",
+        "author": "H. Leighton Dickson",
+        "title": "Dragon of Ash & Stars",
+        "url": "https://www.goodreads.com/book/show/31279046-dragon-of-ash-stars",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B01J4ZD684/ref=x_gr_bb_amazon",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B01J4ZD684",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "feathers-of-gold.jpg",
+        "author": "Rowan Silver",
+        "title": "Feathers of Gold",
+        "url": "https://www.goodreads.com/book/show/61998449-feathers-of-gold",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0B9Q26W5Y",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0B9Q26W5Y",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "song-of-the-summer-king.jpg",
+        "author": "Jess E. Owen",
+        "title": "Song of the Summer King",
+        "url": "https://www.goodreads.com/book/show/15751365-song-of-the-summer-king",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B07Z9QHMD2",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B07Z9QHMD2",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "queen-in-the-mud.jpg",
+        "author": "Maari",
+        "title": "Queen in the Mud",
+        "url": "https://www.goodreads.com/book/show/53415675-queen-in-the-mud",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Queen-Mud-Maari-ebook/dp/B087ZS49T8/",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "label": "Stub",
+                "url": "https://www.royalroad.com/fiction/26317/queen-in-the-mud",
+                "drm": true,
+                "free": false,
+                "non_spec": true
+            },
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Queen-Mud-Maari-ebook/dp/B087ZS49T8/",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": true,
+        "audiobook": true
+    },
+    {
+        "cover": "the-forgotten-element.jpg",
+        "author": "Chester Young",
+        "title": "The Forgotten Element",
+        "url": "https://www.goodreads.com/book/show/58812436-the-forgotten-element",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null
+        },
+        "drmFree": null,
+        "missing": true,
+        "free": null,
+        "digitalOnly": null,
+        "audiobook": null
+    },
+    {
+        "cover": "the-gryphon-generation.jpg",
+        "author": "Alexander Bizzell",
+        "title": "The Gryphon Generation",
+        "url": "https://www.goodreads.com/book/show/39332595-the-gryphon-generation",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B07BKVWLDN",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B07BKVWLDN",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "royal-red.jpg",
+        "author": "K.C. Shaw",
+        "title": "Royal Red",
+        "url": "https://www.goodreads.com/book/show/61879225-royal-red",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0B7TKYQRG",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "Patreon",
+                "url": "https://www.patreon.com/posts/royal-red-ebook-141961885",
+                "drm": false,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "my-father's-dragon.jpg",
+        "author": "Ruth Stiles Gannett",
+        "title": "My Father's Dragon",
+        "url": "https://www.goodreads.com/en/book/show/34898",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Fathers-Dragon-Ruth-Stiles-Gannett-ebook/dp/B07K79ZVTJ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/my-father-s-dragon-3",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/my-fathers-dragon-ruth-stiles-gannett/1101117680",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "lutapolii-white-dragon-of-the-south.jpg",
+        "author": "Deryn Pittar",
+        "title": "Lutapolii: White Dragon of the South",
+        "url": "https://www.goodreads.com/book/show/38139523-lutapolii",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0CX9MWMNG",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0CX9MWMNG",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "lohikarmen.jpg",
+        "author": "Carmine Bruzi",
+        "title": "Lohikarmen",
+        "url": "https://www.goodreads.com/book/show/93244973-lohikarmen",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BTDTJ715",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/lohikarmen-1",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/lohikarmen-carmine-bruzi/1143038978?ean=2940186514954",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.kobo.com/us/en/ebook/lohikarmen-1",
+                "drm": false,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "kraamlok.jpg",
+        "author": "Shaaron Plumb",
+        "title": "Kraamlok",
+        "url": "https://www.goodreads.com/book/show/55846969-kraamlok",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B08MPSB1TZ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B08MPSB1TZ",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "dragon-student-sythyry's-journal.jpg",
+        "author": "Bard Bloom",
+        "title": "Dragon Student: Sythyry's Journal",
+        "url": "https://www.goodreads.com/book/show/31362246-dragon-student",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Dragon-Student-Sythyrys-Journal-1-ebook/dp/B01JV6A72E",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "LiveJournal",
+                "url": "https://sythyry.livejournal.com/2002/05/16/",
+                "drm": false,
+                "free": true,
+                "sub": null
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "a-dream-of-wings-&-flame.jpg",
+        "author": "Cale Plamann",
+        "title": "A Dream of Wings & Flame",
+        "url": "https://www.goodreads.com/book/show/62015939-a-dream-of-wings-flame",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0B6Q9QBK7",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "label": "Stub",
+                "url": "https://www.royalroad.com/fiction/42630/a-dream-of-wings-and-flame",
+                "drm": false,
+                "free": true,
+                "non_spec": true
+            },
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0B6Q9QBK7",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "the-last-monster-on-earth.jpg",
+        "author": "L.J. Davies",
+        "title": "The Last Monster On Earth",
+        "url": "https://www.goodreads.com/book/show/123254723-the-last-monster-on-earth",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BYB8K3R1",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Last-Monster-Earth-LJ-Davies-ebook/dp/B0BYF5YKMZ",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "where-dragons-rule-dissent.jpg",
+        "author": "Sonny Dae",
+        "title": "Where Dragons Rule: Dissent",
+        "url": "https://www.goodreads.com/book/show/219321416-where-dragons-rule",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DHDFHDYB",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "burning-stars-afterdark.jpg",
+        "author": "Rurik Redwolf",
+        "title": "Burning Stars: Afterdark",
+        "url": "https://www.goodreads.com/book/show/57716668",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Burning-Stars-Afterdark-Rurik-Redwolf-ebook/dp/B07RWG38SQ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Burning-Stars-Afterdark-Rurik-Redwolf-ebook/dp/B07RWG38SQ",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-princess's-feathers.jpg",
+        "author": "Zang",
+        "title": "The Princess's Feathers",
+        "url": "https://www.goodreads.com/book/show/228369339-the-princess-s-feathers",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DYD4TDCH",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "label": "Unedited",
+                "url": "https://www.royalroad.com/fiction/52876/the-princesss-feathers",
+                "drm": false,
+                "free": true
+            },
+            "other": {
+                "label": "itch.io",
+                "url": "https://audreytaylor.itch.io/the-princesss-feathers-heir-dragoness",
+                "drm": false,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-crimson-torch.jpg",
+        "author": "Angela Holder",
+        "title": "The Crimson Torch",
+        "url": "https://www.goodreads.com/book/show/41552747-the-crimson-torch",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B07GVP62Y7",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B07GVP62Y7",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "raptor-red.jpg",
+        "author": "Robert T. Bakker",
+        "title": "Raptor Red",
+        "url": "https://www.goodreads.com/book/show/117710.Raptor_Red",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Raptor-Red-Robert-T-Bakker-ebook/dp/B0DJPGLC51",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "label": "Audiobook",
+                "url": "https://www.kobo.com/ch/en/audiobook/raptor-red",
+                "drm": true,
+                "free": false,
+                "non_spec": true
+            },
+            "bn": null,
+            "rr": null,
+            "other": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "eyes-of-silver.jpg",
+        "author": "Rowan Silver",
+        "title": "Eyes of Silver",
+        "url": "https://www.goodreads.com/book/show/157643353-eyes-of-silver",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0C5SBJKN2",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0C5SBJKN2",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "tail-of-revenge.jpg",
+        "author": "Chester Young",
+        "title": "Tail of Revenge",
+        "url": "https://www.goodreads.com/book/show/63358359-tail-of-revenge",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BMY4DBQX",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0BMY4DBQX",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "reincarnated-as-a-dragon-hatchling.jpg",
+        "author": "Necoco",
+        "title": "Reincarnated as a Dragon Hatchling",
+        "url": "https://www.goodreads.com/book/show/58269339-reincarnated-as-a-dragon-hatchling-light-novel-vol-1",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0948N7837",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ch/en/ebook/reincarnated-as-a-dragon-hatchling-light-novel-vol-1",
+                "drm": true,
+                "adobe_drm": true,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/reincarnated-as-a-dragon-hatchling-nekoko/1138718340",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/reincarnated-as-a-dragon-hatchling-light-novel-vol-1/id1571433839",
+                    "drm": true,
+                    "free": false
+                },
+                {
+                    "label": "Google",
+                    "url": "https://play.google.com/store/books/details?id=0PsvEAAAQBAJ",
+                    "drm": true,
+                    "adobe_drm": true,
+                    "free": false
+                }
+            ]
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "silver-sand-and-silken-wings.jpg",
+        "author": "Heiko Ehlers",
+        "title": "Silver, Sand, and Silken Wings",
+        "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0C94H2B9Z",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0C94H2B9Z",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "new-dragon-city.jpg",
+        "author": "Mari Mancus",
+        "title": "New Dragon City",
+        "url": "https://www.goodreads.com/book/show/180210699-silver-sand-and-silken-wings",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/031637668X",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/new-dragon-city",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/new-dragon-city-mari-mancusi/1140976927?ean=9780316376891",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "steven-de-luca.jpg",
+        "author": "Bound in Scales",
+        "title": "Steven De Luca",
+        "url": "https://www.goodreads.com/book/show/36703268-bound-in-scales",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B077VVS182",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B077VVS182",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "petrichor.jpg",
+        "author": "C.E. Wright",
+        "title": "Petrichor",
+        "url": "https://www.goodreads.com/book/show/63008129-petrichor",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BH6YH4BH",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0BH6YH4BH",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "highfire.jpg",
+        "author": "Eoin Colfer",
+        "title": "Highfire",
+        "url": "https://www.goodreads.com/book/show/44890077-highfire",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Highfire-Novel-Eoin-Colfer-ebook/dp/B07QTB6DBP",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Highfire-Novel-Eoin-Colfer-ebook/dp/B07QTB6DBP",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragon-prayers.jpg",
+        "author": "M.J. McPike",
+        "title": "Dragon Prayers",
+        "url": "https://www.goodreads.com/book/show/28809746-dragon-prayers",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B01ANQD44Y",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B01ANQD44Y",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "here-be-dragons.png",
+        "author": "Second_sol",
+        "title": "Here Be Dragons",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/67180/emergence",
+                "drm": false,
+                "free": true
+            },
+            "other": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "scales-of-pearl.jpg",
+        "author": "Rowan Silver",
+        "title": "Scales of Pearl",
+        "url": "https://www.goodreads.com/book/show/201332881",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0CMD3RMY1",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0CMD3RMY1",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-dragon-in-the-dungeon.png",
+        "author": "Of the Wilds",
+        "title": "The Dragon in the Dungeon",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "SoFurry",
+                "url": null,
+                "drm": false,
+                "free": true,
+                "non_spec": true
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "the-fifth.jpg",
+        "author": "Saylor Ferguson",
+        "title": "The Fifth",
+        "url": "https://www.goodreads.com/book/show/148190351-the-fifth",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Fifth-Dragons-Time-Book-ebook/dp/B0C4MLZ6B6",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Fifth-Dragons-Time-Book-ebook/dp/B0C4MLZ6B6",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-chosen-prince.jpg",
+        "author": "Shaidan Barnes",
+        "title": "The Chosen Prince",
+        "url": "https://www.goodreads.com/book/show/205755050",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0CSXSPM1D",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0CSXSPM1D",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "axinstone.jpg",
+        "author": "J.F.R. Coates",
+        "title": "Axinstone",
+        "url": "https://www.goodreads.com/book/show/204351073",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Axinstone-Destiny-Dragons-Book-1-ebook/dp/B0CQZC55Y3",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ch/en/ebook/axinstone",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/axinstone-jfr-coates/1127797854?ean=2940164992545",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/axinstone/id1581499570",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1081620",
+                    "drm": false,
+                    "free": false
+                }
+            ],
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.barnesandnoble.com/w/axinstone-jfr-coates/1127797854?ean=2940164992545",
+                "drm": true,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": true,
+        "audiobook": true
+    },
+    {
+        "cover": "smash-the-world's-shell.jpg",
+        "author": "Daniel Fliederbaum",
+        "title": "Smash the World's Shell",
+        "url": "https://www.goodreads.com/book/show/197688271",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Smash-Worlds-Shell-Daniel-Fliederbaum-ebook/dp/B0CF47ZQWJ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/smash-the-world-s-shell",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/smash-the-worlds-shell-daniel-fliederbaum/1143897713",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/smash-the-worlds-shell/id6459267293",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1434812",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Google",
+                    "url": "https://play.google.com/store/books/details?id=WuDPEAAAQBAJ",
+                    "drm": false,
+                    "free": false
+                }
+            ]
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "his-majesty's-dragon.jpg",
+        "author": "Naomi Novik",
+        "title": "His Majesty's Dragon",
+        "url": "https://www.goodreads.com/book/show/18626894-his-majesty-s-dragon",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B000GCFBQA",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/his-majesty-s-dragon",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/his-majestys-dragon-naomi-novik/1100294047?ean=9780345490728",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "the-black-gryphon.jpg",
+        "author": "Mercedes Lackey",
+        "title": "The Black Gryphon",
+        "url": "https://www.goodreads.com/book/show/176804.The_Black_Gryphon",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Black-Gryphon-Mage-Wars-Book-ebook/dp/B002IEUV4G",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/the-black-gryphon-4",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-black-gryphon-mercedes-lackey/1100315049",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": {
+                "label": "Google",
+                "url": "https://play.google.com/store/books/details?id=4liJEAAAQBAJ",
+                "adobe_drm": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "missing.png",
+        "author": "Of the Wilds",
+        "title": "Revaramek the Resplendent",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "SoFurry",
+                "url": "https://www.sofurry.com/browse/folder/stories?by=99946&folder=48542",
+                "drm": false,
+                "free": true
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "missing.png",
+        "author": "Of the Wilds",
+        "title": "Pledged in Blood",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "SoFurry",
+                "url": "https://www.sofurry.com/browse/folder/stories?by=99946&folder=70266",
+                "drm": false,
+                "free": true
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "axtara-magic-and-mischief.jpg",
+        "author": "Max Florschutz",
+        "title": "Axtara - Magic and Mischief",
+        "url": "https://www.goodreads.com/book/show/215354625-axtara---magic-and-mischief",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0D8264GL7",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0D8264GL7",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-dragon's-call.jpg",
+        "author": "Peter Dressler",
+        "title": "The Dragon's Call",
+        "url": "https://www.goodreads.com/book/show/54020637-the-dragon-s-call",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B087CL3SD3",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/the-dragon-s-call-2",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-dragons-call-peter-dressler/1136937415",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/the-dragons-call/id1510450078",
+                    "drm": true,
+                    "free": false,
+                    "non_spec": true
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1017831"
+                }
+            ],
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.kobo.com/us/en/ebook/the-dragon-s-call-2",
+                "drm": false,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "hunted.jpg",
+        "author": "Skye Melki-Wegner",
+        "title": "Hunted",
+        "url": "https://www.goodreads.com/book/show/60405316-the-deadlands",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Deadlands-Hunted-Skye-Melki-Wegner-ebook/dp/B0BV5PYVTM",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/the-deadlands-hunted",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-deadlands-skye-melki-wegner/1140990396?ean=9781250827685",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": {
+                "label": "Google",
+                "url": "https://play.google.com/store/books/details?id=765nEAAAQBAJ",
+                "adobe_drm": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "upon-wings-of-change.png",
+        "author": "Crystal Scherer",
+        "title": "Upon Wings of Change",
+        "url": "https://www.goodreads.com/book/show/53136511-upon-wings-of-change",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Upon-Wings-Change-Crystal-Scherer-ebook/dp/B08FHKB3MB",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/upon-wings-of-change",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/upon-wings-of-change-crystal-scherer/1137590285",
+                "drm": false,
+                "free": false
+            },
+            "rr": {
+                "label": "Unedited",
+                "url": "https://www.royalroad.com/fiction/97390/upon-wings-of-change",
+                "drm": false,
+                "free": true
+            },
+            "other": {
+                "label": "Google",
+                "url": "https://play.google.com/store/books/details/Crystal_Scherer_Upon_Wings_of_Change?id=cnKMEQAAQBAJ",
+                "drm": false,
+                "free": false
+            },
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.kobo.com/us/en/ebook/upon-wings-of-change",
+                "drm": false,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "the-bakery-dragon.jpg",
+        "author": "Devin Elle Kurtz",
+        "title": "The Bakery Dragon",
+        "url": "https://www.goodreads.com/book/show/205484319-the-bakery-dragon",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0CS96S1M3",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/the-bakery-dragon",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-bakery-dragon-devin-elle-kurtz/1144623577?ean=9780593710982",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/the-bakery-dragon/id6476019760",
+                    "drm": true,
+                    "free": false
+                },
+                {
+                    "label": "Google",
+                    "url": "https://play.google.com/store/books/details/Devin_Elle_Kurtz_The_Bakery_Dragon?id=F9vtEAAAQBAJ",
+                    "adobe_drm": true,
+                    "free": false
+                }
+            ]
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "emerald-secrets.jpg",
+        "author": "Justin A. Lee",
+        "title": "Emerald Secrets",
+        "url": "https://www.goodreads.com/book/show/219844368-scales-and-honor",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DJCLDZC5",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/100854/scales-and-honor-emerald-secrets-book-2",
+                "drm": false,
+                "free": true
+            },
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0DJCLDZC5",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "ashen-dreams.jpg",
+        "author": "Rurik Redwolf",
+        "title": "Ashen Dreams",
+        "url": "https://www.goodreads.com/book/show/126575317-ashen-dreams",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BY5MC3LP",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0BY5MC3LP",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "dragons-of-frost-and-fang.jpg",
+        "author": "Rowan Silver",
+        "title": "Dragons of Frost and Fang",
+        "url": "https://www.goodreads.com/book/show/222297375-dragons-of-frost-and-fang",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DPPTWCGZ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0DPPTWCGZ",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-tachanigh-kelkaith.jpg",
+        "author": "Rakeela Windrider",
+        "title": "The Tachanigh-Kelkaith",
+        "url": "https://www.goodreads.com/book/show/142401180",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0C3QHN5C9",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/63301/the-tachanigh-kelkaith",
+                "drm": false,
+                "free": true
+            },
+            "other": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-scarred-prince.jpg",
+        "author": "Shaidan Barnes",
+        "title": "The Scarred Prince",
+        "url": "https://www.goodreads.com/book/show/222257591-scales-of-fate",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DPLKBXBN",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0DPLKBXBN",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "silver-talon-college-of-magic.png",
+        "author": "ALHHill",
+        "title": "Silver Talon College of Magic",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/93491/silver-talon-college-of-magic",
+                "drm": false,
+                "free": true
+            },
+            "other": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "the-crushing-light.png",
+        "author": "AlbinoDeer",
+        "title": "The Crushing Light",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/102001/the-crushing-light",
+                "drm": false,
+                "free": true
+            },
+            "other": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "how-to-be-a-hero-(and-part-time-dragon).jpg",
+        "author": "S. Blakeway",
+        "title": "How to be a Hero: (And Part-Time Dragon)",
+        "url": "https://www.goodreads.com/book/show/25770175-how-to-be-a-hero",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B00YZ2ZASG",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B00YZ2ZASG",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-lost-firebreather.jpg",
+        "author": "DM Gilmore",
+        "title": "The Lost Firebreather",
+        "url": "https://www.goodreads.com/book/show/229244868-the-lost-firebreather",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "the-shining-wyrm.png",
+        "author": "Nighzmarquls",
+        "title": "The Shining Wyrm",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/81611/the-shining-wyrm",
+                "drm": false,
+                "free": true
+            },
+            "other": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "meghanology.png",
+        "author": "theInmara",
+        "title": "Meghanology",
+        "url": "https://www.goodreads.com/book/show/223465577-girldragongizzard",
+        "vendors": {
+            "amazon": {
+                "label": "Paperback only",
+                "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
+                "drm": false,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": [
+                {
+                    "label": "Scribblehub",
+                    "url": "https://www.scribblehub.com/series/1206828/meghanology--book--of-girldragongizzard/",
+                    "drm": false,
+                    "free": true
+                },
+                {
+                    "label": "Itch.io",
+                    "url": "https://inmara.itch.io/girldragongizzard",
+                    "drm": false,
+                    "free": true
+                }
+            ]
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "a-chronicle-of-lies-the-dark-sculptor.jpg",
+        "author": "Abraham Carson",
+        "title": "A Chronicle of Lies: The Dark Sculptor",
+        "url": "https://www.goodreads.com/book/show/221381946-a-chronicle-of-lies",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DMKQKTSZ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/83239/a-chronicle-of-lies-high-fantasyisekai",
+                "drm": false,
+                "free": true
+            },
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0DMKQKTSZ",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "dragon's-soul.jpg",
+        "author": "J.F.R. Coates",
+        "title": "Dragon's Soul",
+        "url": "https://www.goodreads.com/book/show/234797093-dragon-s-soul",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Dragons-Soul-J-F-R-Coates-ebook/dp/B0F9PBM56T",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/dragon-s-soul-2",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/dragons-soul-jfr-coates/1147495421",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1775686",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Itch.io",
+                    "url": "https://jfrcoates.itch.io/dragons-soul",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "TF Pub",
+                    "url": "https://www.tfpublishing.com.au/store/dragons-soul-ebook",
+                    "drm": false,
+                    "free": false
+                }
+            ]
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "the-waters-of-nyra-volume-1.jpg",
+        "author": "Kelly Michelle Baker",
+        "title": "The Waters of Nyra: Volume 1",
+        "url": "https://www.goodreads.com/book/show/36762063-the-waters-of-nyra",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B077S4PKTC",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/the-waters-of-nyra-volume-i",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-waters-of-nyra-kelly-michelle-baker/1120017134?ean=2940167374690",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": {
+                "label": "Apple",
+                "url": "https://books.apple.com/gb/book/the-waters-of-nyra-volume-i/id6448544705",
+                "drm": false,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "picky-eaters.jpg",
+        "author": "S.J. Higbee",
+        "title": "Picky Eaters",
+        "url": "https://www.goodreads.com/book/show/54221358-picky-eaters",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B089YLWRZP",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B089YLWRZP",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "sapphire-stars-and-sandstone-hearts.jpg",
+        "author": "Heiko Ehlers",
+        "title": "Sapphire Stars and Sandstone Hearts",
+        "url": "https://www.goodreads.com/book/show/231316014-sapphire-stars-and-sandstone-hearts",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0F4N8X1CG",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0F4N8X1CG",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-wyrms-of-&alon.png",
+        "author": "M.C. Siegel",
+        "title": "The Wyrms of &alon",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/64440/the-wyrms-of-alon",
+                "drm": false,
+                "free": true
+            },
+            "other": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "chained-flame.png",
+        "author": "Saffron Drake",
+        "title": "Chained Flame",
+        "url": "https://books2read.com/b/mKMan9",
+        "vendors": {
+            "amazon": null,
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/chained-flame",
+                "drm": false,
+                "free": false
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/chained-flame-saffron-drake/1148082011",
+                "drm": false,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/chained-flame/id6751299534",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/1837391",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Fable",
+                    "url": "https://fable.co/book/x-9798231103041",
+                    "drm": false,
+                    "free": false
+                }
+            ],
+            "sub": {
+                "label": "Kobo Plus",
+                "url": "https://www.kobo.com/us/en/ebook/chained-flame",
+                "drm": false,
+                "sub_ko": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "tails-of-the-west-the-silver-fangs.jpg",
+        "author": "Mr M Remington",
+        "title": "Tails of the West: The Silver Fangs",
+        "url": "https://www.goodreads.com/book/show/222852128-tails-of-the-west",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0DR5XWNGZ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-iron-prince.jpg",
+        "author": "DM Gilmore",
+        "title": "The Iron Prince",
+        "url": "https://www.goodreads.com/book/show/242397468",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0FTVYS87B",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0FTVYS87B",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "knight-of-talonia.jpg",
+        "author": "Rakeela Windrider",
+        "title": "Knight of Talonia",
+        "url": "https://www.goodreads.com/book/show/237419535",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0FFWZSXGD",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "Patreon",
+                "url": "https://www.patreon.com/posts/knight-of-has-132501448",
+                "drm": false,
+                "free": true
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "call-me-dragon.jpg",
+        "author": "Marc Secchia",
+        "title": "Call Me Dragon",
+        "url": "https://www.goodreads.com/book/show/55781409",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B08LBQ7TX2",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B08LBQ7TX2",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "dragons-of-the-veil.jpg",
+        "author": "DeVout Numelran",
+        "title": "Dragons of the Veil",
+        "url": "https://www.goodreads.com/book/show/240644462",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0FNQDVBN5",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0FNQDVBN5",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "tumbleteller.jpg",
+        "author": "Lars Jensen",
+        "title": "Tumbleteller",
+        "url": "https://www.goodreads.com/book/show/122778258-tumbleteller",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0BNJQVTHY",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0BNJQVTHY",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "missing.png",
+        "author": "Nifertx",
+        "title": "Of Unprecedented Scale",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": {
+                "label": "Ao3",
+                "url": "https://archiveofourown.org/works/64099456/chapters/164463898",
+                "drm": false,
+                "free": true
+            }
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "dragon-rider.jpg",
+        "author": "Cornelia Funke",
+        "title": "Dragon Rider",
+        "url": "https://www.goodreads.com/book/show/21171501-dragon-rider",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B00EIJI6JQ",
+                "drm": true,
+                "free": false
+            },
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/dragon-rider-1",
+                "drm": true,
+                "free": false,
+                "adobe_drm": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/dragon-rider-cornelia-funke/1100201236?ean=9780545405980",
+                "drm": true,
+                "free": false
+            },
+            "rr": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/gb/book/dragon-rider/id898742632",
+                    "drm": true,
+                    "free": false
+                },
+                {
+                    "label": "Google",
+                    "url": "https://play.google.com/store/books/details?id=ad1GBAAAQBAJ&rdid=book-ad1GBAAAQBA",
+                    "drm": false,
+                    "free": false,
+                    "adobe_drm": true
+                },
+                {
+                    "label": "Bookshop",
+                    "url": "https://bookshop.org/p/books/dragon-rider-cornelia-funke/cb8a1d821d9daacb?ean=9780545405980&digital=t",
+                    "drm": true,
+                    "free": false
+                }
+            ]
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "reverting-scales.jpg",
+        "author": "The Illogic",
+        "title": "Reverting Scales",
+        "url": "https://www.goodreads.com/book/show/205531889-reverting-scales",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0CSM7QQ2M",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0CSM7QQ2M",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
         "cover": "test.jpg",
         "author": "Test",
         "title": "Reversing Scales",
