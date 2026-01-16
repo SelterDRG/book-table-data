@@ -1495,8 +1495,8 @@
     },
     {
         "cover": "cover51.jpg",
-        "author": "Bound in Scales",
-        "title": "Steven De Luca",
+        "author": "Steven De Luca",
+        "title": "Bound in Scales",
         "url": "https://www.goodreads.com/book/show/36703268-bound-in-scales",
         "vendors": {
             "amazon": {
@@ -2956,5 +2956,6 @@
     }
 
 ]
+
 
 
