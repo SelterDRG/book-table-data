@@ -1781,6 +1781,7 @@
             "bn": {
                 "url": "https://www.barnesandnoble.com/w/axinstone-jfr-coates/1127797854?ean=2940164992545",
                 "drm": false,
+                "confirmed": false,
                 "free": false
             },
             "rr": null,
