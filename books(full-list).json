@@ -1495,8 +1495,8 @@
     },
     {
         "cover": "steven-de-luca.jpg",
-        "author": "Bound in Scales",
-        "title": "Steven De Luca",
+        "author": "Steven De Luca",
+        "title": "Bound in Scales",
         "url": "https://www.goodreads.com/book/show/36703268-bound-in-scales",
         "vendors": {
             "amazon": {
@@ -2927,33 +2927,7 @@
         "audiobook": false
     },
     {
-        "cover": "a-draconic-rebirth.jpg",
-        "author": "Undercover_Dragon1",
-        "title": "A Draconic Rebirth",
-        "vendors": {
-            "amazon": null,
-            "kobo": null,
-            "bn": null,
-            "rr": {
-                "url": "https://www.royalroad.com/fiction/98532/a-draconic-rebirth",
-                "drm": false,
-                "free": true
-            },
-            "other": {
-                "label": "Reddit",
-                "url": "https://www.reddit.com/r/HFY/comments/1f0mhz9/the_reborn_draconic_chapter_1/",
-                "drm": false,
-                "free": true
-            },
-            "sub": null
-        },
-        "drmFree": true,
-        "free": true,
-        "digitalOnly": true,
-        "audiobook": false
-    },
-    {
-        "cover": "a-draconic-rebirth.jpg",
+        "cover": "a-draconic-rebirth.png",
         "author": "Undercover_Dragon1",
         "title": "A Draconic Rebirth",
         "vendors": {
