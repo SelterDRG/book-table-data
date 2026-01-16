@@ -2953,6 +2953,32 @@
         "audiobook": false
     },
     {
+        "cover": "a-draconic-rebirth.jpg",
+        "author": "Undercover_Dragon1",
+        "title": "A Draconic Rebirth",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": {
+                "url": "https://www.royalroad.com/fiction/98532/a-draconic-rebirth",
+                "drm": false,
+                "free": true
+            },
+            "other": {
+                "label": "Reddit",
+                "url": "https://www.reddit.com/r/HFY/comments/1f0mhz9/the_reborn_draconic_chapter_1/",
+                "drm": false,
+                "free": true
+            },
+            "sub": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": true,
+        "audiobook": false
+    },
+    {
         "cover": "test.jpg",
         "author": "Test",
         "title": "Reversing Scales",
