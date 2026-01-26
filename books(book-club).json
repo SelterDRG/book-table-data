@@ -1663,12 +1663,12 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0C94H2B9Z",
-                "drm": false,
+                "drm": true,
                 "sub_ki": true,
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": false
@@ -2951,12 +2951,12 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0F4N8X1CG",
-                "drm": false,
+                "drm": true,
                 "sub_ki": true,
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": false
