@@ -35,7 +35,7 @@
                 "url": "https://www.amazon.com/gp/product/B094ZQB4CF",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -69,7 +69,7 @@
                 "url": "https://www.amazon.com/gp/product/B094ZYMFFR",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -173,7 +173,7 @@
                 "url": "https://www.amazon.com/gp/product/B094ZS43DD",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
