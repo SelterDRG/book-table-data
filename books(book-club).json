@@ -966,12 +966,12 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0B9Q26W5Y",
-                "drm": false,
+                "drm": true,
                 "sub_ki": true,
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": true
