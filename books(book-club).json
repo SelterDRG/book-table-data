@@ -966,7 +966,7 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0B9Q26W5Y",
-                "drm": true,
+                "drm": false,
                 "sub_ki": true,
                 "free": false
             }
@@ -1652,7 +1652,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0C94H2B9Z",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -1663,7 +1663,7 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0C94H2B9Z",
-                "drm": true,
+                "drm": false,
                 "sub_ki": true,
                 "free": false
             }
@@ -2542,9 +2542,9 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0C3QHN5C9",
-                "drm": true,
+                "drm": false,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -2940,7 +2940,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0F4N8X1CG",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -2951,7 +2951,7 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0F4N8X1CG",
-                "drm": true,
+                "drm": false,
                 "sub_ki": true,
                 "free": false
             }
@@ -3105,9 +3105,9 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0FFWZSXGD",
-                "drm": true,
+                "drm": false,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
