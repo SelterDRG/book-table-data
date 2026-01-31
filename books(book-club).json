@@ -1109,10 +1109,10 @@
         "url": "https://www.goodreads.com/book/show/61879225-royal-red",
         "vendors": {
             "amazon": {
-                "url": "https://www.amazon.com/gp/product/B0B7TKYQRG",
+                "url": "https://www.amazon.com/Royal-Red-Cozy-Adventure-Fantasy-ebook/dp/B0GKNRMR96",
                 "drm": true,
                 "free": false,
-                "confirmed": true
+                "confirmed": false
             },
             "kobo": null,
             "bn": null,
