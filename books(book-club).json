@@ -348,7 +348,7 @@
                 "url": "https://www.amazon.com/gp/product/B00TS3J5GU/ref=x_gr_bb_amazon",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/ww/en/ebook/dragonfriend-3",
@@ -384,7 +384,7 @@
                 "url": "https://www.amazon.com/gp/product/B010ZFL5SA/ref=x_gr_bb_amazon",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -1208,7 +1208,7 @@
                 "url": "https://www.amazon.com/gp/product/B0BTDTJ715",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/us/en/ebook/lohikarmen-1",
@@ -1785,7 +1785,7 @@
                 "url": "https://www.amazon.com/Highfire-Novel-Eoin-Colfer-ebook/dp/B07QTB6DBP",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -2818,7 +2818,7 @@
                 "url": "https://www.amazon.com/Dragons-Soul-J-F-R-Coates-ebook/dp/B0F9PBM56T",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/ww/en/ebook/dragon-s-soul-2",
@@ -3138,7 +3138,7 @@
                 "url": "https://www.amazon.com/gp/product/B08LBQ7TX2",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
