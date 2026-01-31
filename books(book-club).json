@@ -139,7 +139,7 @@
                 "url": "https://www.amazon.com/gp/product/B094TZC6SY",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -989,7 +989,7 @@
                 "url": "https://www.amazon.com/gp/product/B07Z9QHMD2",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -1248,7 +1248,7 @@
                 "url": "https://www.amazon.com/gp/product/B08MPSB1TZ",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -1572,7 +1572,7 @@
                 "url": "https://www.amazon.com/gp/product/B0BMY4DBQX",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
