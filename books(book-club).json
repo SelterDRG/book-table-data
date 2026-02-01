@@ -748,6 +748,7 @@
         "author": "K. Vale Nagle",
         "title": "Eyrie",
         "series": "Gryphon Insurrection 1",
+        "year": "2019",
         "rating": "4",
         "r_count": "166",
         "url": "https://www.goodreads.com/book/show/44292600-eyrie",
@@ -884,7 +885,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/0692154825/ref=x_gr_bb_amazon",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -3179,7 +3180,7 @@
                 "url": "https://www.amazon.com/gp/product/B0FNQDVBN5",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
