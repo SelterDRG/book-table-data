@@ -1110,9 +1110,9 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/Royal-Red-Cozy-Adventure-Fantasy-ebook/dp/B0GKNRMR96",
-                "drm": true,
+                "drm": false,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
