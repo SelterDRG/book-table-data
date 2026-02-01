@@ -802,6 +802,7 @@
         "author": "Max Florschutz",
         "title": "Axtara - Banking and Finance",
         "series": "Axtara 1",
+        "year": "2020",
         "rating": "4.5",
         "r_count": "119",
         "url": "https://www.goodreads.com/book/show/56383097-axtara---banking-and-finance",
@@ -981,6 +982,7 @@
         "author": "Jess E. Owen",
         "title": "Song of the Summer King",
         "series": "The Summer King Chronicles Series 1",
+        "year": "2012",
         "rating": "4.33",
         "r_count": "1112",
         "url": "https://www.goodreads.com/book/show/15751365-song-of-the-summer-king",
@@ -1072,6 +1074,9 @@
         "cover": "cover32.jpg",
         "author": "Alexander Bizzell",
         "title": "The Gryphon Generation",
+        "year": "2018",
+        "rating": "3.8",
+        "r_count": "80",     
         "url": "https://www.goodreads.com/book/show/39332595-the-gryphon-generation",
         "vendors": {
             "amazon": {
@@ -1095,9 +1100,7 @@
         "drmFree": false,
         "free": false,
         "digitalOnly": false,
-        "audiobook": true,
-        "rating": "3.8",
-        "r_count": "80"
+        "audiobook": true
     },
     {
         "cover": "cover33.jpg",
@@ -1500,6 +1503,7 @@
         "cover": "cover45.jpg",
         "author": "Robert T. Bakker",
         "title": "Raptor Red",
+        "year": "1995",
         "rating": "3.96",
         "r_count": "9734",
         "url": "https://www.goodreads.com/book/show/117710.Raptor_Red",
@@ -1865,6 +1869,7 @@
         "author": "Rowan Silver",
         "title": "Scales of Pearl",
         "series": "Dragons and Skylines 3",
+        "year": "2023",
         "rating": "4.52",
         "r_count": "44",
         "url": "https://www.goodreads.com/book/show/201332881",
@@ -1921,6 +1926,7 @@
         "author": "Saylor Ferguson",
         "title": "The Fifth",
         "series": "The Dragons of Time 1",
+        "year": "2023",
         "rating": "4.36",
         "r_count": "22",
         "url": "https://www.goodreads.com/book/show/148190351-the-fifth",
@@ -2126,6 +2132,7 @@
         "cover": "cover62.jpg",
         "author": "Mercedes Lackey",
         "title": "The Black Gryphon",
+        "year": "1994",
         "url": "https://www.goodreads.com/book/show/176804.The_Black_Gryphon",
         "vendors": {
             "amazon": {
@@ -2296,6 +2303,7 @@
         "author": "Skye Melki-Wegner",
         "title": "Hunted",
         "series": "The Deadlands 1",
+        "year": "2023",
         "rating": "3.92",
         "r_count": "550",
         "url": "https://www.goodreads.com/book/show/60405316-the-deadlands",
@@ -3099,6 +3107,7 @@
         "cover": "cover1.jpg",
         "author": "Rakeela Windrider",
         "title": "Knight of Talonia",
+        "year": "2025",
         "rating": "4.8",
         "r_count": "5",
         "url": "https://www.goodreads.com/book/show/237419535",
