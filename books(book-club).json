@@ -2791,7 +2791,7 @@
                 "url": "https://www.amazon.com/gp/product/B0DMKQKTSZ",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
