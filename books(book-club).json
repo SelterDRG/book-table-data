@@ -1444,7 +1444,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0DYD4TDCH",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -2000,7 +2000,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/Axinstone-Destiny-Dragons-Book-1-ebook/dp/B0CQZC55Y3",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -2449,7 +2449,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0DJCLDZC5",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -2825,7 +2825,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/Dragons-Soul-J-F-R-Coates-ebook/dp/B0F9PBM56T",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
