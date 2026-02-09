@@ -757,7 +757,7 @@
                 "url": "https://www.amazon.com/gp/product/B07NCPM2XP/ref=x_gr_bb_amazon",
                 "drm": false,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/us/en/ebook/eyrie-7",
