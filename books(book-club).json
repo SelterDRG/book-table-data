@@ -274,7 +274,7 @@
                 "url": "https://www.amazon.com/gp/product/B0BPKFX5XC/ref=x_gr_bb_amazon",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": {
@@ -308,7 +308,7 @@
                 "url": "https://www.amazon.com/gp/product/B081VRFXBM",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -411,7 +411,7 @@
                 "url": "https://www.amazon.com/Child-Daystar-Wings-War-Book-ebook/dp/B019ABWGJC",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -509,7 +509,7 @@
                 "url": "https://www.amazon.com/gp/product/0451460472",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/ca/en/ebook/dragon-champion-book-one-of-the-age-of-fire-1",
@@ -755,7 +755,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B07NCPM2XP/ref=x_gr_bb_amazon",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": false
             },
@@ -846,7 +846,7 @@
                 "url": "https://www.amazon.com/Wearle-Book-Erth-Dragons-ebook/dp/B010RFZUMA",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/us/en/ebook/the-wearle-the-erth-dragons-1",
@@ -1024,7 +1024,7 @@
                 "url": "https://www.amazon.com/Queen-Mud-Maari-ebook/dp/B087ZS49T8/",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -1758,7 +1758,7 @@
                 "url": "https://www.amazon.com/gp/product/B0BH6YH4BH",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -1822,7 +1822,7 @@
                 "url": "https://www.amazon.com/gp/product/B01ANQD44Y",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -1936,7 +1936,7 @@
                 "url": "https://www.amazon.com/Fifth-Dragons-Time-Book-ebook/dp/B0C4MLZ6B6",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": null,
             "bn": null,
@@ -2706,12 +2706,12 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
-                "drm": true,
+                "drm": false,
                 "sub_ki": true,
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": true
