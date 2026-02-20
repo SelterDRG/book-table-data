@@ -2695,7 +2695,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
