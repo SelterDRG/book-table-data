@@ -3321,7 +3321,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0CSM7QQ2M",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -3337,7 +3337,7 @@
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": false
