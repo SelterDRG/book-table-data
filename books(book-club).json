@@ -1146,7 +1146,7 @@
                 "url": "https://www.amazon.com/Fathers-Dragon-Ruth-Stiles-Gannett-ebook/dp/B07K79ZVTJ",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/us/en/ebook/my-father-s-dragon-3",
@@ -2140,7 +2140,7 @@
                 "url": "https://www.amazon.com/Black-Gryphon-Mage-Wars-Book-ebook/dp/B002IEUV4G",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/ww/en/ebook/the-black-gryphon-4",
@@ -3268,7 +3268,7 @@
                 "url": "https://www.amazon.com/gp/product/B00EIJI6JQ",
                 "drm": true,
                 "free": false,
-                "confirmed": false
+                "confirmed": true
             },
             "kobo": {
                 "url": "https://www.kobo.com/us/en/ebook/dragon-rider-1",
@@ -3379,6 +3379,8 @@
         "title": "Memories of the Void",
         "series": "Wildhearts of the Kin 1",
         "year": "2026",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/240528868-the-isle-of-arcanum",
         "vendors": {
             "amazon": {
@@ -3404,6 +3406,8 @@
         "title": "Eragon",
         "series": "The Inheritance Cycle 1",
         "year": "2002",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/113436.Eragon",
         "vendors": {
             "amazon": {
@@ -3429,6 +3433,8 @@
         "title": "The Dragon Heir: Wraithscale",
         "series": null,
         "year": "2026",
+        "rating": "",
+        "r_count": "",
         "url": "https://www.goodreads.com/book/show/245753257",
         "vendors": {
             "amazon": {
