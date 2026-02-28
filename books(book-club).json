@@ -3341,5 +3341,117 @@
         "free": false,
         "digitalOnly": false,
         "audiobook": false
+    },
+    {
+        "cover": "cover93.jpg",
+        "author": "Rowan Silver",
+        "title": "The Isle of Arcanum",
+        "series": "Dragonspark 1",
+        "year": "2026",
+        "url": "https://www.goodreads.com/book/show/240528868-the-isle-of-arcanum",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/Isle-Arcanum-Dragonspark-Book-ebook/dp/B0FMYX9C49",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/Isle-Arcanum-Dragonspark-Book-ebook/dp/B0FMYX9C49",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "cover94.jpg",
+        "author": "David Scheglov",
+        "title": "Memories of the Void",
+        "series": "Wildhearts of the Kin 1",
+        "year": "2026",
+        "url": "https://www.goodreads.com/book/show/240528868-the-isle-of-arcanum",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GKWWBHK1",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "cover95.jpg",
+        "author": "Christopher Paolini",
+        "title": "Eragon",
+        "series": "The Inheritance Cycle 1",
+        "year": "2002",
+        "url": "https://www.goodreads.com/book/show/113436.Eragon",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/0375826696",
+                "drm": true,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "cover96.jpg",
+        "author": "Mangowo",
+        "title": "The Dragon Heir: Wraithscale",
+        "series": null,
+        "year": "2026",
+        "url": "https://www.goodreads.com/book/show/245753257",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GCG7GKP2",
+                "drm": true,
+                "free": false,
+                "confirmed": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0GCG7GKP2",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
     }
 ]
