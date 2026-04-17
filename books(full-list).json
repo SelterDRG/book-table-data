@@ -2958,7 +2958,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0CSM7QQ2M",
-                "drm": true,
+                "drm": false,
                 "free": false
             },
             "kobo": null,
@@ -2973,7 +2973,7 @@
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": false
@@ -3006,6 +3006,105 @@
         "drmFree": true,
         "free": true,
         "digitalOnly": true,
+        "audiobook": false
+    },
+    {
+        "cover": "a-volariers-tale.jpg",
+        "author": "Ocea Kasson",
+        "title": "A Volārier's Tale",
+        "series": null,
+        "year": "2026",
+        "rating": "5.0",
+        "r_count": "3",
+        "url": "https://www.goodreads.com/book/show/247773169-a-vol-rier-s-tale",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GMHNG6NX",
+                "drm": false,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0GMHNG6NX",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "shed-everything.jpg",
+        "author": "Inmara Fenumera",
+        "title": "SHED EVERYTHING",
+        "series": null,
+        "year": "2026",
+        "rating": null,
+        "r_count": null,
+        "url": "https://www.goodreads.com/book/show/247773169-a-vol-rier-s-tale",
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": [
+                {
+                "label": "Itch.io",
+                "url": "https://inmara.itch.io/shed-everything",
+                "drm": false,
+                "free": false
+                },
+                {
+                "label": "Scribblehub",
+                "url": "https://www.scribblehub.com/series/2223268/shed-everything/",
+                "drm": false,
+                "free": true
+                },
+                {
+                "label": "Lulu",
+                "url": "https://www.lulu.com/shop/inmara-fenumera/shed-everything/paperback/product-v8787qv.html",
+                "drm": false,
+                "free": false
+                }
+            ],
+            "sub": null
+        },
+        "drmFree": true,
+        "free": true,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "intertwined.jpg",
+        "author": "Samantha Edwhan",
+        "title": "Intertwined",
+        "series": null,
+        "year": "2026",
+        "rating": "4.3",
+        "r_count": "3",
+        "url": "https://www.goodreads.com/book/show/242245473-intertwined",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0FT4CD5CB",
+                "drm": true,
+                "free": false
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": false,
+        "free": false,
+        "digitalOnly": false,
         "audiobook": false
     }
 ]
