@@ -11,8 +11,7 @@ HEADERS = {
 
 # Two JSON files to update
 BOOKS_FILES = [
-    "books(full-list).json",
-    "books(book-club).json",
+    "books.json",
 ]
 
 # ---------- Helpers ----------
