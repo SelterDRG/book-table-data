@@ -3902,5 +3902,36 @@
         "free": false,
         "digitalOnly": false,
         "audiobook": false
+    },
+    {
+        "cover": "pandora-dragons-joy.jpg",
+        "author": "Ishi K",
+        "title": "Pandora Dragons: Joy",
+        "series": null,
+        "year": "2026",
+        "rating": "5.0",
+        "r_count": "2",
+        "inBookClub": false,
+        "inFullList": true,
+        "bookClubOrder": null,
+        "url": "https://www.goodreads.com/book/show/251107580-pandora-dragons",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GX3L25J1",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
     }
 ]
