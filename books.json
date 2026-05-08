@@ -3838,9 +3838,9 @@
         "year": "2026",
         "rating": null,
         "r_count": null,
-        "inBookClub": false,
+        "inBookClub": true,
         "inFullList": true,
-        "bookClubOrder": null,
+        "bookClubOrder": 102,
         "url": null,
         "vendors": {
             "amazon": null,
@@ -3882,9 +3882,9 @@
         "year": "2025",
         "rating": "4.3",
         "r_count": "3",
-        "inBookClub": false,
+        "inBookClub": true,
         "inFullList": true,
-        "bookClubOrder": null,
+        "bookClubOrder": 103,
         "url": "https://www.goodreads.com/book/show/242245473-intertwined",
         "vendors": {
             "amazon": {
@@ -3932,6 +3932,83 @@
         "free": false,
         "missing": false,
         "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "the-princess-s-feathers-mysteries-of-felra.jpg",
+        "author": "Audrey  Taylor",
+        "title": "The Princess's Feathers: Mysteries of Felra",
+        "series": null,
+        "year": "2026",
+        "rating": "4.83",
+        "r_count": "6",
+        "inBookClub": true,
+        "inFullList": true,
+        "bookClubOrder": 104,
+        "url": "https://www.goodreads.com/book/show/249619931-the-princess-s-feathers",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GSCY6FMG",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": [
+                {
+                    "label": "Itch.io",
+                    "url": "https://audreytaylor.itch.io/the-princesss-feathers-mysteries-of-felra",
+                    "drm": false,
+                    "free": false
+                }
+            ],
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "missing": false,
+        "digitalOnly": false,
+        "audiobook": false
+    },
+    {
+        "cover": "missing.jpg",
+        "author": "Oridian",
+        "title": "The Life and Times of Jarzyl Mintaka",
+        "series": null,
+        "year": "2019",
+        "rating": null,
+        "r_count": null,
+        "inBookClub": true,
+        "inFullList": true,
+        "bookClubOrder": 105,
+        "url": null,
+        "vendors": {
+            "amazon": null,
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": [
+                {
+                    "label": "SoFurry",
+                    "url": "https://sofurry.com/u/oridian/f/GnDL5rXn",
+                    "drm": false,
+                    "free": true
+                },
+                {
+                    "label": "Ao3",
+                    "url": "https://archiveofourown.gay/series/5312811",
+                    "drm": false,
+                    "free": true
+                }
+            ],
+            "sub": null
+        },
+        "drmFree": true,
+        "free": true,
+        "missing": false,
+        "digitalOnly": true,
         "audiobook": false
     }
 ]
