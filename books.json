@@ -3911,7 +3911,7 @@
         "year": "2026",
         "rating": "5",
         "r_count": "6",
-        "inBookClub": false,
+        "inBookClub": true,
         "inFullList": true,
         "bookClubOrder": null,
         "url": "https://www.goodreads.com/book/show/251107580-pandora-dragons",
