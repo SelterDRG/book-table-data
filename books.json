@@ -2141,7 +2141,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0CSXSPM1D",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -2157,7 +2157,7 @@
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": true
@@ -2814,12 +2814,12 @@
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0DPLKBXBN",
-                "drm": true,
+                "drm": false,
                 "sub_ki": true,
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": true
