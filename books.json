@@ -2803,7 +2803,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0DPLKBXBN",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
@@ -2933,14 +2933,43 @@
                 "free": false,
                 "confirmed": true
             },
-            "kobo": null,
-            "bn": null,
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/the-lost-firebreather",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-lost-firebreather-dm-gilmore/1147454066",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
             "rr": null,
-            "other": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/the-lost-firebreather/id6767885711",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/view/2027374",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Fable",
+                    "url": "https://fable.co/book/x-9798235636781",
+                    "drm": false,
+                    "free": false
+                }
+            ],
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
-                "drm": false,
+                "drm": true,
                 "sub_ki": true,
                 "free": false
             }
@@ -3350,14 +3379,43 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0FTVYS87B",
-                "drm": true,
+                "drm": false,
                 "free": false,
                 "confirmed": true
             },
-            "kobo": null,
-            "bn": null,
+            "kobo": {
+                "url": "https://www.kobo.com/us/en/ebook/the-iron-prince-1",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/the-iron-prince-dm-gilmore/1148861821",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
             "rr": null,
-            "other": null,
+            "other": [
+                {
+                    "label": "Apple",
+                    "url": "https://books.apple.com/us/book/the-iron-prince/id6770729512",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Smashwords",
+                    "url": "https://www.smashwords.com/books/2031996",
+                    "drm": false,
+                    "free": false
+                },
+                {
+                    "label": "Fable",
+                    "url": "https://fable.co/book/the-iron-prince-by-dm-gilmore-9798235636026",
+                    "drm": false,
+                    "free": false
+                }
+            ],
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0FTVYS87B",
@@ -3366,7 +3424,7 @@
                 "free": false
             }
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": true
@@ -3715,8 +3773,18 @@
                 "free": false,
                 "confirmed": true
             },
-            "kobo": null,
-            "bn": null,
+            "kobo": {
+                "url": "https://www.kobo.com/ww/en/ebook/eragon-the-inheritance-cycle-book-1",
+                "drm": true,
+                "free": false,
+                "confirmed": true
+            },
+            "bn": {
+                "url": "https://www.barnesandnoble.com/w/eragon-christopher-paolini/1100292381",
+                "drm": true,
+                "free": false,
+                "confirmed": true
+            },
             "rr": null,
             "other": null,
             "sub": null
