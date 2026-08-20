@@ -1047,15 +1047,15 @@
             "rr": null,
             "other": null,
             "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/gp/product/B0B9Q26W5Y",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
+                "label": "Itch.io",
+                "url": "https://rowansilver.itch.io/feathers-of-gold",
+                "drm": false,
+                "free": true,
+                "sub": null
             }
         },
         "drmFree": true,
-        "free": false,
+        "free": true,
         "digitalOnly": false,
         "audiobook": true
     },
@@ -2933,39 +2933,10 @@
                 "free": false,
                 "confirmed": true
             },
-            "kobo": {
-                "url": "https://www.kobo.com/us/en/ebook/the-lost-firebreather",
-                "drm": false,
-                "free": false,
-                "confirmed": true
-            },
-            "bn": {
-                "url": "https://www.barnesandnoble.com/w/the-lost-firebreather-dm-gilmore/1147454066",
-                "drm": false,
-                "free": false,
-                "confirmed": true
-            },
+            "kobo": null,
+            "bn": null,
             "rr": null,
-            "other": [
-                {
-                    "label": "Apple",
-                    "url": "https://books.apple.com/us/book/the-lost-firebreather/id6767885711",
-                    "drm": false,
-                    "free": false
-                },
-                {
-                    "label": "Smashwords",
-                    "url": "https://www.smashwords.com/books/view/2027374",
-                    "drm": false,
-                    "free": false
-                },
-                {
-                    "label": "Fable",
-                    "url": "https://fable.co/book/x-9798235636781",
-                    "drm": false,
-                    "free": false
-                }
-            ],
+            "other": null,
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0F1NDCJQ1",
@@ -3383,39 +3354,10 @@
                 "free": false,
                 "confirmed": true
             },
-            "kobo": {
-                "url": "https://www.kobo.com/us/en/ebook/the-iron-prince-1",
-                "drm": false,
-                "free": false,
-                "confirmed": true
-            },
-            "bn": {
-                "url": "https://www.barnesandnoble.com/w/the-iron-prince-dm-gilmore/1148861821",
-                "drm": false,
-                "free": false,
-                "confirmed": true
-            },
+            "kobo": null,
+            "bn": null,
             "rr": null,
-            "other": [
-                {
-                    "label": "Apple",
-                    "url": "https://books.apple.com/us/book/the-iron-prince/id6770729512",
-                    "drm": false,
-                    "free": false
-                },
-                {
-                    "label": "Smashwords",
-                    "url": "https://www.smashwords.com/books/2031996",
-                    "drm": false,
-                    "free": false
-                },
-                {
-                    "label": "Fable",
-                    "url": "https://fable.co/book/the-iron-prince-by-dm-gilmore-9798235636026",
-                    "drm": false,
-                    "free": false
-                }
-            ],
+            "other": null,
             "sub": {
                 "label": "KU",
                 "url": "https://www.amazon.com/gp/product/B0FTVYS87B",
@@ -3981,7 +3923,7 @@
         "r_count": "6",
         "inBookClub": true,
         "inFullList": true,
-        "bookClubOrder": null,
+        "bookClubOrder": 106,
         "url": "https://www.goodreads.com/book/show/251107580-pandora-dragons",
         "vendors": {
             "amazon": {
@@ -4078,5 +4020,101 @@
         "missing": false,
         "digitalOnly": true,
         "audiobook": false
+    },
+    {
+        "cover": "missing.png",
+        "author": "DM Gilmore",
+        "title": "The Broken Kingdom",
+        "series": "The Lost Firebreather 3",
+        "year": "2026",
+        "rating": "4.46",
+        "r_count": "13",
+        "inBookClub": true,
+        "inFullList": true,
+        "bookClubOrder": 106,
+        "url": "https://www.goodreads.com/book/show/247403507-the-broken-kingdom",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GKW595DN",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": {
+                "label": "KU",
+                "url": "https://www.amazon.com/gp/product/B0GKW595DN",
+                "drm": true,
+                "sub_ki": true,
+                "free": false
+            }
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "missing.png",
+        "author": "Rurik Redwolf",
+        "title": "Burning Stars: Blackout",
+        "series": "Burning Stars 3",
+        "year": "2026",
+        "rating": "4.9",
+        "r_count": "20",
+        "inBookClub": true,
+        "inFullList": true,
+        "bookClubOrder": 107,
+        "url": "https://www.goodreads.com/book/show/251231694-burning-stars",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GXLBM29N",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
+    },
+    {
+        "cover": "missing.png",
+        "author": "Shaidan Barnes",
+        "title": "Scales of Fate: The Celestial Princess",
+        "series": "Scales of Fate 3",
+        "year": "2026",
+        "rating": "4.9",
+        "r_count": "20",
+        "inBookClub": true,
+        "inFullList": true,
+        "bookClubOrder": 108,
+        "url": "https://www.goodreads.com/book/show/250436543-scales-of-fate",
+        "vendors": {
+            "amazon": {
+                "url": "https://www.amazon.com/gp/product/B0GHZ7SG6T",
+                "drm": false,
+                "free": false,
+                "confirmed": true
+            },
+            "kobo": null,
+            "bn": null,
+            "rr": null,
+            "other": null,
+            "sub": null
+        },
+        "drmFree": true,
+        "free": false,
+        "digitalOnly": false,
+        "audiobook": true
     }
 ]
