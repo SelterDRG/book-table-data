@@ -1045,14 +1045,14 @@
             "kobo": null,
             "bn": null,
             "rr": null,
-            "other": null,
-            "sub": {
+            "other": {
                 "label": "Itch.io",
                 "url": "https://rowansilver.itch.io/feathers-of-gold",
                 "drm": false,
                 "free": true,
                 "sub": null
-            }
+            },
+            "sub": null
         },
         "drmFree": true,
         "free": true,
@@ -1684,17 +1684,17 @@
             "kobo": null,
             "bn": null,
             "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/gp/product/B0C5SBJKN2",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
+            "other": {
+                "label": "Itch.io",
+                "url": "https://rowansilver.itch.io/eyes-of-silver",
+                "drm": false,
+                "free": true,
+                "sub": null
+            },
+            "sub": null
         },
         "drmFree": true,
-        "free": false,
+        "free": true,
         "digitalOnly": false,
         "audiobook": true
     },
@@ -2049,17 +2049,17 @@
             "kobo": null,
             "bn": null,
             "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/gp/product/B0CMD3RMY1",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
+            "other": {
+                "label": "Itch.io",
+                "url": "https://rowansilver.itch.io/scales-of-pearl",
+                "drm": false,
+                "free": true,
+                "sub": null
+            },
+            "sub": null
         },
         "drmFree": true,
-        "free": false,
+        "free": true,
         "digitalOnly": false,
         "audiobook": false
     },
@@ -2741,14 +2741,14 @@
             "kobo": null,
             "bn": null,
             "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/gp/product/B0DPPTWCGZ",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
+            "other": {
+                "label": "Itch.io",
+                "url": "https://rowansilver.itch.io/dragons-of-frost-and-fang",
+                "drm": false,
+                "free": true,
+                "sub": null
+            },
+            "sub": null
         },
         "drmFree": true,
         "free": false,
@@ -3652,17 +3652,17 @@
             "kobo": null,
             "bn": null,
             "rr": null,
-            "other": null,
-            "sub": {
-                "label": "KU",
-                "url": "https://www.amazon.com/Isle-Arcanum-Dragonspark-Book-ebook/dp/B0FMYX9C49",
-                "drm": true,
-                "sub_ki": true,
-                "free": false
-            }
+            "other": {
+                "label": "Itch.io",
+                "url": "https://rowansilver.itch.io/the-isle-of-arcanum",
+                "drm": false,
+                "free": true,
+                "sub": null
+            },
+            "sub": null
         },
         "drmFree": true,
-        "free": false,
+        "free": true,
         "digitalOnly": false,
         "audiobook": false
     },
