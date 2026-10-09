@@ -3899,7 +3899,7 @@
         "vendors": {
             "amazon": {
                 "url": "https://www.amazon.com/gp/product/B0FT4CD5CB",
-                "drm": true,
+                "drm": false,
                 "free": false
             },
             "kobo": null,
@@ -3908,7 +3908,7 @@
             "other": null,
             "sub": null
         },
-        "drmFree": false,
+        "drmFree": true,
         "free": false,
         "digitalOnly": false,
         "audiobook": false
